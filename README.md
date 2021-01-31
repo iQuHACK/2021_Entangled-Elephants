@@ -5,7 +5,7 @@ Team Entangled Elephants: Taurean Lee, Danny Samuels, Riya Tyagi, Christain Rain
 
 Quantum mechanics and quantum computing are quite inaccessible during these times. Quantum is STEM-heavy, and while it appears cool, is often intimidating or even boring to the everday person. However, if quantum could make a fun, strategy-based, and interesting game, perhaps we could educate and engage the world. Quantum is a field that will likley be ubiquitous in the future, and now, more than ever, it is important that we take steps to open up the field for others. We wanted to take this iniative by designing and building QuVasion.
 
-To summarize, QuVasion is a 1v1 strategic game designed with elements from Chess, Stratego, and quantum mechanics. We hope to educate people about quantum mechanics in a entertaining and engaging way!
+To summarize, QuVasion is a 1v1 strategy game designed with elements from Chess, Stratego, and quantum mechanics. We hope to educate people about quantum mechanics in a entertaining and engaging way!
 
 ## Rules of the Game
 
