@@ -27,7 +27,7 @@ As a team, we lacked the knowledge to implement the game in pyGame and Qiskit. T
   <img src="board.png" width="350" title="Board Setup">
 </p>
 
-- Our board gameplay
+- Our board gameplay: roads are grey, walls are maroon, and the faded pieces are in superpositions
 <p align="left">
   <img src="boardplay.png" width="350" title="Board Game Play">
 </p>
