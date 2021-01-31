@@ -1,20 +1,14 @@
-# QuVasion: a Quantum Game combining elements of Risk, Stratego, Chess, and Minesweeper
+# QuVasion: a Quantum Game Combining Elements of Risk, Stratego, Chess, and Minesweeper
 Taurean Lee, Danny Samuels, Riya Tyagi, Christain Rainer, and Adam Gluck
 
-Check out some info in the [event's repository](https://github.com/iQuHACK/2021) to get started.
+## Introduction 
 
-Having a README in your team's repository facilitates judging. A good README contains:
-* a clear title for your project,
-* a short abstract,
-* the motivation/goals for your project,
-* a description of the work you did, and
-* proposals for future work.
+Quantum mechanics and quantum computing are quite inaccessible during these times. Quantum is STEM-heavy, and while it appears cool, is often intimidating or even boring to the everday person. However, if quantum could make a fun, strategy-based, and interesting game, perhaps we could educate and engage the world. Quantum is a field that will likley be ubiquitous in the future, and now, more than ever, it is important that we take steps to open up the field for others.
 
-You can find a potential README template in [one of last year's projects](https://github.com/iQuHACK/QuhacMan).
+We wanted to take this iniative by designing and building QuVasion.
 
-Feel free to contact the staff with questions over our [event's slack](https://iquhack.slack.com), or via iquhack@mit.edu.
+## Abstract
 
-Good luck!
 
 
 ## Rules of the Game
@@ -31,6 +25,19 @@ Our goal was to incorporate essential quantum mechanics and quantum computing pr
 - Superposition: Superposition is used as a form of deception. A player can choose any spot on the board which they can travel to within one turn and superposition their piece between its current spot and the new location. A player can continue to form superpositions on the board, and then choose which position to collapse the superposition to. However, if a player form a superposition with a spot next to an opponent's player, the superposition can be measured in one action and automatically collapsed. 
 
 
+## Demonstrations
+
+As a team, we lacked the knowledge to implement the game in pyGame and Qiskit. Thus, we focused on designing the game instead. 
+- Our board setup
+<p align="left">
+  <img src="board.png" width="350" title="hover text">
+</p>
 
 
-QuVasion 
+## To-Do
+
+Currently, we have mainly designed the game on paper. We were unable to succesfully implement it, although we did attempt to do so in game.py. In addition, all of us were incredibly busy this weekend, and were often not available. We did what we could, but a lot of it was not done as a group.
+
+When we have a chance, we hope to implement this game in the future. For now, we present our design, rules, and structure.
+
+
