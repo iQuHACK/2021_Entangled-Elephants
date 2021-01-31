@@ -34,7 +34,7 @@ As a team, we lacked the knowledge to implement the game in pyGame and Qiskit. T
 
 ## To-Do
 
-Currently, we have mainly designed the game on paper. We were unable to succesfully implement it, although we did attempt to do so in game.py. In addition, all of us were incredibly busy this weekend, and were often not available. We did what we could, but a lot of it was not done as a group.
+Currently, we have mainly designed the game. We were unable to succesfully implement it, although we did attempt to do so (our efforts can be viewed in the game.py file). In addition, all of us were incredibly busy this weekend and were often not available.
 
 When we have a chance, we hope to implement this game. For now, we present our game design, rules, and structure.
 
