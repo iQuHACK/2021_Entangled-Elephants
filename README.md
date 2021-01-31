@@ -1,5 +1,5 @@
 # QuVasion: a Quantum Game Combining Elements of Stratego and Chess
-Taurean Lee, Danny Samuels, Riya Tyagi, Christain Rainer, and Adam Gluck
+Team Entangled Elephants: Taurean Lee, Danny Samuels, Riya Tyagi, Christain Rainer, and Adam Gluck
 
 ## Introduction/Abstract
 
